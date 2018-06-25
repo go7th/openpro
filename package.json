@@ -1,6 +1,6 @@
 {
-  "name": "myfirst",
-  "version": "0.0.1",
+  "name": "go7th-first",
+  "version": "0.0.2",
   "description": "我的测试文件",
   "main": "src/index.js",
   "scripts": {
