@@ -24,5 +24,5 @@ git clone git@github.com:go7th/openpro.git
 
 ## 关于作者
 
-   [博客入口](www.wangxinzuopinji.com)
-   [收款二维码](www.go7th.top)
+   [博客入口](http://www.wangxinzuopinji.com/)
+   [收款二维码](http://www.go7th.top/)
