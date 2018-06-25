@@ -10,7 +10,7 @@
 
 git clone git@github.com:go7th/openpro.git
 
-rpm i go7th-first
+npm i go7th-first
 
 [weblink](https://github.com/go7th/openpro)
 
