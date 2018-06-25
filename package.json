@@ -1,0 +1,27 @@
+{
+  "name": "myfirst",
+  "version": "0.0.1",
+  "description": "我的测试文件",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack",
+    "example":"http-server -p 80"
+  },
+  "keywords": [
+    "ceshi"
+  ],
+  "author": "go7th",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "babel-loader": "^7.1.4",
+    "webpack": "^4.12.1"
+  }
+}
