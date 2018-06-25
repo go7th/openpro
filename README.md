@@ -8,6 +8,10 @@
 
 ## 安装下载
 
+git clone git@github.com:go7th/openpro.git
+
+[weblink](https://github.com/go7th/openpro)
+
 ## 快速使用
 
 使用说明
